@@ -1,4 +1,4 @@
-# 🚀 Week 1: Linux & Git Basics for VLSI Design
+# 🚀 Week 0: Linux & Git Basics for VLSI Design
 
 ![status](https://img.shields.io/badge/STATUS-COMPLETE-green)
 ![week](https://img.shields.io/badge/WEEK-1-blue)
@@ -8,7 +8,7 @@
 ---
 
 ## 📖 Introduction
-Welcome to **Week 1** of my **VLSI System Design (VSD) Program** repository!  
+Welcome to **Week 0** of my **VLSI System Design (VSD) Program** repository!  
 This week focused on learning **Linux fundamentals** 🖥️ and **Git version control** 🌐, building a strong foundation for upcoming VLSI tool installations.  
 
 ---
