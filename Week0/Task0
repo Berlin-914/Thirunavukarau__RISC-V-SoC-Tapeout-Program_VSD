@@ -1,1 +1,49 @@
+# 🚀 Week 1: Linux & Git Basics for VLSI Design
+
+Welcome to **Week 1** of my VLSI System Design (VSD) Program repository!  
+This week focused on understanding **Linux basics**, **Git version control**, and preparing a smooth workflow for future VLSI tool installations.  
+The goal was to build strong fundamentals in handling commands, repositories, and file organization.  
+
+---
+
+## ⚙️ Topics Covered
+- 🖥️ Introduction to **Linux Environment**
+- 📂 File and Directory Management (`ls`, `cd`, `mkdir`, `rm`)
+- ⚡ Basic Commands (`chmod`, `grep`, `cat`, `nano`)
+- 🌐 Introduction to **GitHub & Git**
+- 🔗 Cloning, Committing, and Pushing Code
+- 📝 Writing a simple README.md file
+
+---
+
+## 💻 Linux Setup
+For practice, I used a Virtual Machine (VM) with the following configuration:
+
+| Specification       | Details        |
+|---------------------|---------------|
+| Operating System    | Ubuntu 20.04+ |
+| RAM                 | 6 GB          |
+| Storage             | 50 GB HDD     |
+| vCPUs               | 4             |
+
+---
+
+## 📸 Screenshots
+
+Below are some screenshots from my work during this week:
+
+- `Week1/assets/linux_commands.png` → Demonstrating basic Linux commands  
+- `Week1/assets/git_push.png` → Successfully pushing files to GitHub  
+- `Week1/assets/readme_preview.png` → README.md preview on GitHub  
+
+---
+
+## ✅ Outcome
+- Gained confidence in navigating Linux terminal.  
+- Learned to use Git for version control.  
+- Prepared a clean folder structure for upcoming VLSI tool installations.  
+
+---
+
+✨ *This marks the beginning of my VSD journey with strong foundations in Linux and Git!*  
 
